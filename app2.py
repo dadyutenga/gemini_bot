@@ -98,7 +98,7 @@ def main():
     st.html("""<h1 style="text-align: center; color: #6ca395;">🤖 <i>The DadI custom chatbot</i> 💬</h1>""")
 
 
-     st.markdown("""
+    st.markdown("""
     This is Open Source. We do not share any private information.
     For recommendations, email me at dadynasser89@gmail.com or text me at 0689924886.
     Have a good chat!
